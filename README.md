@@ -1,0 +1,2 @@
+# kyosk
+A kiosk is an informal convenience store selling everyday household items. Known locally by their vernacular names e.g. Duka in Kenya, Spaza in South Africa, Kantemba in Zambia. kiosk-type retail outlets are the cornerstone of African retail, accounting for over 60% of all retail trade flows. Despite their importance, kiosk-type retail outlets face significant challenges, including high cost of stock and unreliable delivery.
